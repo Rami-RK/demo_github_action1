@@ -1,2 +1,2 @@
-# demo_github-_action1
-demo
+# Demo CI-Contineous Integration
+This is for demonstration of dev env. and best coding pactices.
